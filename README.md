@@ -1,9 +1,10 @@
 # JavaScript Client-Side Bitcoin Wallet Generator
 
-## Now Bitcoin addresses and their corresponding private key can be conveniently generated in a web browser. The benefit of this technique is you can load the JavaScript locally and trust that the JavaScript did not change after being loaded. 
+### Now Bitcoin addresses and their corresponding private key can be conveniently generated in a web browser. The benefit of this technique is you can load the JavaScript locally and trust that the JavaScript did not change after being loaded. 
 
+### ![bit jesse](https://github.com/sudo-self/bit.JesseJesse.com/assets/119916323/3abe4b94-f21b-4493-9cce-ac01c91bd5f1)
 
-## END USER NOTES:
+### END USER NOTES:
 
  1) For Bulk Wallet I recommended using Google Chrome, it's the fastest.
 
