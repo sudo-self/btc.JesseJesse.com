@@ -1,22 +1,22 @@
 # JavaScript Client-Side Bitcoin Wallet Generator
 
-### Now Bitcoin addresses and their corresponding private key can be conveniently generated in a web browser. The benefit of this technique is you can load the JavaScript locally and trust that the JavaScript did not change after being loaded. 
+## Bitcoin addresses and their corresponding private key can be conveniently generated in a web browser. You can load the JavaScript locally and trust that the JavaScript did not change after being loaded. 
 
 ### ![bit jesse](https://github.com/sudo-self/bit.JesseJesse.com/assets/119916323/3abe4b94-f21b-4493-9cce-ac01c91bd5f1)
 
 ### END USER NOTES:
 
- 1) For Bulk Wallet I recommended using Google Chrome, it's the fastest.
+ 1. For Bulk Wallet I recommended using Google Chrome, it's the fastest.
 
- 2) Requires IE9+, Firefox, Chrome or sufficient JavaScript support.
+ 2. Requires IE9+, Firefox, Chrome or sufficient JavaScript support.
 
- 3) Mobile Safari only works with iPhone4 or newer devices.
+ 3. Mobile Safari only works with iPhone4 or newer devices.
     Older devices timeout while executing JavaScript.
 
- 4) DO NOT use Opera Mini it renders JavaScript output server side, therefore
+ 4. DO NOT use Opera Mini it renders JavaScript output server side, therefore
     they might record the private key you generated.
 
- 5) BIP38 most likely will not work on mobile devices due to hardware limitations.
+ 5. 
 
 
 Notice of Copyrights and Licenses:
