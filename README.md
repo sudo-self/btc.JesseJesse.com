@@ -16,6 +16,7 @@
 
  5. Download the Zip and use the tool offline for Garunteed privacy 
 
-### [New wallet BTC.pdf](https://github.com/sudo-self/btc.JesseJesse.com/files/11446723/New.wallet.BTC.pdf)
+### <img width="1472" alt="Untitled" src="https://github.com/sudo-self/btc.JesseJesse.com/assets/119916323/e787c223-9346-49af-9459-21346b1936c2">
+
 
 
