@@ -1,6 +1,6 @@
 # JavaScript Client-Side Bitcoin Wallet Generator
 
-## Bitcoin wallet address conveniently generated in a web browser. Load the JavaScript locally and trust that the JavaScript did not change since the wallet was created offline
+## Bitcoin wallet generator via web browser
 
 ### ![bit jesse](https://github.com/sudo-self/bit.JesseJesse.com/assets/119916323/3abe4b94-f21b-4493-9cce-ac01c91bd5f1)
 
