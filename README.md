@@ -1,12 +1,6 @@
 # JavaScript Client-Side Bitcoin Wallet Generator
-
 ## Bitcoin wallet generator via web browser
-
-### ![btc](https://github.com/sudo-self/btc.JesseJesse.com/assets/119916323/8ca4af56-d214-4a06-9c45-9ae61fab2b69)
-
-### <img width="1472" alt="Untitled" src="https://github.com/sudo-self/btc.JesseJesse.com/assets/119916323/e787c223-9346-49af-9459-21346b1936c2">
-
-
+## ![Untitled](https://github.com/sudo-self/btc.JesseJesse.com/assets/119916323/2710beac-6a2d-4e6d-aaa2-fcdb297ddab6)
 ### STAY SAFE
 
  1. Google Chrome is the fastest 
