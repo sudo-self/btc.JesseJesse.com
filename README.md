@@ -11,11 +11,11 @@
 
  1. Google Chrome is the fastest 
 
- 2. Mobile Safari only works, just type into the text box until reaches 100%
+ 2. Mobile Safari works just keep typing into the text box until reaches 100%
 
  4. DO NOT use Opera or anything that JavaScript outputs server side as it might record the private key you generated.
  
- 5. Download the Zip and use the tool offline for complete privacy 
+ 5. Download the Zip and use the html offline for complete privacy 
 
 
 
