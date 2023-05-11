@@ -2,7 +2,7 @@
 
 ## Bitcoin wallet generator via web browser
 
-### ![bit jesse](https://github.com/sudo-self/bit.JesseJesse.com/assets/119916323/3abe4b94-f21b-4493-9cce-ac01c91bd5f1)
+### ![btc](https://github.com/sudo-self/btc.JesseJesse.com/assets/119916323/8ca4af56-d214-4a06-9c45-9ae61fab2b69)
 
 ### <img width="1472" alt="Untitled" src="https://github.com/sudo-self/btc.JesseJesse.com/assets/119916323/e787c223-9346-49af-9459-21346b1936c2">
 
