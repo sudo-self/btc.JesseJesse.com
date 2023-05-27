@@ -11,6 +11,8 @@
  
  5. Download the Zip and use offline for complete privacy: https://github.com/sudo-self/btc.JesseJesse.com/releases/tag/Bitcoin-wallet
 
+### DONATIONS
+<img width="288" alt="Screenshot 2023-05-26 at 7 48 06 PM" src="https://github.com/sudo-self/btc.JesseJesse.com/assets/119916323/c6bfed86-6aa2-4d62-9d11-729f226d2d57">
 
 
 
