@@ -1,5 +1,5 @@
 # JavaScript Client-Side Bitcoin Wallet Generator
-## Download zip then click the "index.html" File to Load and generate the Wallet Offline
+## for maximum security download zip and generate the Wallet Offline
 ### ![Untitled](https://github.com/sudo-self/btc.JesseJesse.com/assets/119916323/a87aa464-b617-4964-8fbb-4d8bf8772112)
 ### STAY SAFE
 
